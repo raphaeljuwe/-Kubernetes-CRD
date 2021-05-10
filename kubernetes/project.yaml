@@ -1,0 +1,10 @@
+apiVersion: "base.security.com/v1alpha1"
+kind: "Istio"
+metadata:
+  name: "istios.base.security.com"
+spec:
+  cert: "my cert file"
+  key : "my private  key"
+  domain: "*.base.security.com"
+  provider: "digicert"  
+  
