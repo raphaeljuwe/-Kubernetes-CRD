@@ -7,8 +7,6 @@ This readme documentation contains a guide on how to access Kubernetes CRDs
  A client library for Custom Resource for building Kubernetes operator that  reacts on changes made to Custom Resources. 
 
 ## Setup
-
-
 A kubernetes cluster needs to be provisoned initially.
 
 Building the example:
